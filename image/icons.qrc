@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>calendar.png</file>
+    <file>VideoIcon.png</file>
+    <file>pause_btn.png</file>
+    <file>pause.jpg</file>
+    <file>stop.png</file>
+    <file>file.png</file>
+    <file>그림3.png</file>
+    <file>그림1.png</file>
+    <file>RRecord.jpg</file>
+    <file>play-button.png</file>
+    <file>record.png</file>
+  </qresource>
+</RCC>
